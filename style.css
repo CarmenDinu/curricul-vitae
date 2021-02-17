@@ -1,0 +1,115 @@
+body,
+html,
+.bar,
+.teal {
+  background-color: rgb(4, 71, 71) !important;
+}
+.card {
+  border: none !important;
+}
+body,
+html,
+.bar,
+.teal {
+  font-family: Lato;
+}
+
+.first-column {
+  color: whitesmoke !important;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+.progress {
+  height: 20px;
+  background-color: teal;
+}
+.progressbar {
+  background-color: teal;
+
+  height: 100%;
+  width: 95%;
+}
+.progressbarcss {
+  background-color: teal;
+  height: 100%;
+  width: 80%;
+}
+
+.progressbarjs {
+  background-color: teal;
+  height: 100%;
+  width: 70%;
+}
+.progressbarboot {
+  background-color: teal;
+  height: 100%;
+  width: 80%;
+}
+.progressbarreact {
+  background-color: teal;
+  height: 100%;
+  width: 50%;
+}
+
+.progressbarrom {
+  background-color: teal;
+  height: 100%;
+  width: 100%;
+}
+.progressbaren {
+  background-color: teal;
+  height: 100%;
+  width: 90%;
+}
+.progressbarfr {
+  background-color: teal;
+  height: 100%;
+  width: 85%;
+}
+.red {
+  background-color: rgb(4, 71, 71);
+}
+
+/* Footer */
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+section {
+  padding: 60px 0;
+}
+
+section .section-title {
+  text-align: center;
+  color: #007b5e;
+  margin-bottom: 50px;
+  text-transform: uppercase;
+}
+
+#footer a {
+  color: #ffffff;
+  text-decoration: none !important;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+#footer ul.social li {
+  padding: 3px 0;
+}
+#footer ul.social li a i {
+  margin-right: 5px;
+  font-size: 25px;
+  -webkit-transition: 0.5s all ease;
+  -moz-transition: 0.5s all ease;
+  transition: 0.5s all ease;
+}
+#footer ul.social li:hover a i {
+  font-size: 30px;
+  margin-top: -10px;
+}
+#footer ul.social li a,
+#footer ul.quick-links li a {
+  color: #ffffff;
+}
+#footer ul.social li a:hover {
+  color: #eeeeee;
+}
